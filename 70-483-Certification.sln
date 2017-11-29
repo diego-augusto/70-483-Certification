@@ -15,6 +15,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Directories", "Directories"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddDirectories", "AddDirectories\AddDirectories.csproj", "{C2EEADFC-09D1-41D4-B465-DC5B31C643CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteDirectories", "DeleteDirectories\DeleteDirectories.csproj", "{4E22CD62-4CCA-497F-B38E-58E3971F4E78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C2EEADFC-09D1-41D4-B465-DC5B31C643CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2EEADFC-09D1-41D4-B465-DC5B31C643CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2EEADFC-09D1-41D4-B465-DC5B31C643CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E22CD62-4CCA-497F-B38E-58E3971F4E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E22CD62-4CCA-497F-B38E-58E3971F4E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E22CD62-4CCA-497F-B38E-58E3971F4E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E22CD62-4CCA-497F-B38E-58E3971F4E78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -43,6 +49,7 @@ Global
 		{DFBACC9F-3FDC-42E1-B11E-BC212CD94D33} = {CE8A74E9-0385-42CD-B495-73CF5E17E7F6}
 		{DF3B1E53-2CBB-4528-B15E-6FF67C306E56} = {02B06A4A-3E1E-4C5D-86C5-100BE49E1A4E}
 		{C2EEADFC-09D1-41D4-B465-DC5B31C643CA} = {DF3B1E53-2CBB-4528-B15E-6FF67C306E56}
+		{4E22CD62-4CCA-497F-B38E-58E3971F4E78} = {DF3B1E53-2CBB-4528-B15E-6FF67C306E56}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7D9A9919-D775-44D6-BB72-951FCD8B5EAF}
